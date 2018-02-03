@@ -7,5 +7,6 @@ int main () {
     Something box;
     box.setThing(5);
     cout << box.getThing() << " was set in box";
+    system("pause");
     return 0;
 }
